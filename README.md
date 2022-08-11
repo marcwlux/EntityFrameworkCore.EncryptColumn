@@ -35,7 +35,3 @@ public class User
 }
 ```
 
-You can take a look at the [example project here](https://github.com/emrekizildas/EntityFrameworkCore.EncryptColumn.Example). 
-
-## Contact
-You can send an e-mail to kizildas@icloud.com for your problems related to the project. You can also create an issue in repository. 
